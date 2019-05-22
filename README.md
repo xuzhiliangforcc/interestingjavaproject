@@ -1,0 +1,2 @@
+# interestingjavaproject
+仅记录我所碰到的有趣java项目
